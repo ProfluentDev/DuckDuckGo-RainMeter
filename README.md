@@ -5,4 +5,4 @@
 ## Credits
 Coding by illustro (For Google searchbar)
 
-Edited & themed by CJ The Boss#6969 for DuckDuckGo searching.
+Edited & themed by CJ The Boss#6969 (me) for DuckDuckGo searching.
